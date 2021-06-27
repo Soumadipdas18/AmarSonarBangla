@@ -3,4 +3,5 @@
 ### Features Bengali Patriotic songs
 Screen 1          |  Screen 2
 :-------------------------:|:-------------------------:
-![image](https://user-images.githubusercontent.com/82037708/119675486-b51f6600-be5a-11eb-8050-41032ba11536.png) | ![image](https://user-images.githubusercontent.com/82037708/119675521-bcdf0a80-be5a-11eb-8364-957469c62661.png)
+
+![photo_2021-06-27_17-38-04](https://user-images.githubusercontent.com/82037708/123544029-fd3deb00-d76e-11eb-9c1b-7acdd9425983.jpg) | ![photo_2021-06-27_17-38-11](https://user-images.githubusercontent.com/82037708/123544038-075fe980-d76f-11eb-9e42-86c11709f8a1.jpg)
